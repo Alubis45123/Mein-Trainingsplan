@@ -30,6 +30,38 @@ Mein Trainingsplan ist eine schlanke Fitness-Web-App, mit der ich meinen Trainin
 - **Installierbare Web-App (PWA):** Zum Startbildschirm hinzufügen und zwischengespeicherte Inhalte offline verwenden.
 - **Datenschutzfreundlich:** Gewichtsdaten und Einstellungen bleiben lokal im Browser; ein Benutzerkonto ist nicht nötig.
 
+## Unser Trainingskonzept
+
+**5 Trainingstage. 2 Regenerationstage. Ein klares System.**
+
+Unser Trainingsplan verfolgt einen strukturierten Ansatz für regelmäßiges Krafttraining und Muskelaufbau. Die Muskelgruppen werden gezielt über die Woche verteilt, um unterschiedliche Trainingsschwerpunkte zu setzen und Erholungsphasen bewusst einzuplanen.
+
+### Der 5-Tage-Trainingssplit
+
+| Tag | Trainingsschwerpunkt |
+| --- | --- |
+| Montag | Brust & Schulter |
+| Dienstag | Rücken & Bizeps |
+| Mittwoch | Beine |
+| Donnerstag | Schulter & Brust |
+| Freitag | Beine & Bauch |
+| Samstag | Regeneration |
+| Sonntag | Regeneration |
+
+### Die Idee hinter dem Plan
+
+- **Gezielte Trainingsschwerpunkte:** Jeder Trainingstag konzentriert sich auf bestimmte Muskelgruppen.
+- **Wiederkehrende Belastungsreize:** Brust, Schultern und Beine werden mehrfach berücksichtigt.
+- **Klare Wochenstruktur:** Fünf Trainingstage schaffen eine feste Routine.
+- **Bewusste Regeneration:** Zwei trainingsfreie Tage bieten Raum für Erholung.
+- **Einfach und übersichtlich:** Keine unnötig komplizierten Vorgaben.
+
+### Unser Ziel
+
+Ein übersichtlicher Trainingsplan, der Kontinuität, Muskelaufbau und eine bewusste Belastungssteuerung unterstützt.
+
+**Train smart. Stay consistent. Make progress.**
+
 ## Live-Demo
 
 **[Mein Trainingsplan ausprobieren](https://alubis45123.github.io/Mein-Trainingsplan/)**
@@ -81,41 +113,6 @@ Bei der Umsetzung waren mir drei Dinge wichtig:
 - **Datenschutz und Offline-Nutzung:** Trainingsbezogene Eingaben bleiben auf dem Gerät; ein Service Worker ermöglicht die Nutzung zwischengespeicherter App-Dateien auch ohne Netzwerkverbindung.
 
 Der aktuelle Fokus liegt auf einer stabilen, verständlichen Anwendung. Zusätzliche Funktionen werden erst ergänzt, wenn sie im Trainingsalltag wirklich sinnvoll sind.
-
-## Roadmap
-
-
-## Unser Trainingskonzept
-
-**5 Trainingstage. 2 Regenerationstage. Ein klares System.**
-
-Unser Trainingsplan verfolgt einen strukturierten Ansatz für regelmäßiges Krafttraining und Muskelaufbau. Die Muskelgruppen werden gezielt über die Woche verteilt, um unterschiedliche Trainingsschwerpunkte zu setzen und Erholungsphasen bewusst einzuplanen.
-
-### Der 5-Tage-Trainingssplit
-
-| Tag | Trainingsschwerpunkt |
-|---|---|
-| Montag | Brust & Schulter |
-| Dienstag | Rücken & Bizeps |
-| Mittwoch | Beine |
-| Donnerstag | Schulter & Brust |
-| Freitag | Beine & Bauch |
-| Samstag | Regeneration |
-| Sonntag | Regeneration |
-
-### Die Idee hinter dem Plan
-
-- **Gezielte Trainingsschwerpunkte:** Jeder Trainingstag konzentriert sich auf bestimmte Muskelgruppen.
-- **Wiederkehrende Belastungsreize:** Brust, Schultern und Beine werden mehrfach berücksichtigt.
-- **Klare Wochenstruktur:** Fünf Trainingstage schaffen eine feste Routine.
-- **Bewusste Regeneration:** Zwei trainingsfreie Tage bieten Raum für Erholung.
-- **Einfach und übersichtlich:** Keine unnötig komplizierten Vorgaben.
-
-### Unser Ziel
-
-Ein übersichtlicher Trainingsplan, der Kontinuität, Muskelaufbau und eine bewusste Belastungssteuerung unterstützt.
-
-**Train smart. Stay consistent. Make progress.**
 
 ## Projektstatus
 

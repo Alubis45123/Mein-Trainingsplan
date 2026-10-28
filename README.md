@@ -1,8 +1,13 @@
 # Mein Trainingsplan
 
+[![Lizenz: MIT](https://img.shields.io/badge/Lizenz-MIT-2ea44f?style=flat-square)](LICENSE)
+![Sprachen: Deutsch und Englisch](https://img.shields.io/badge/Sprachen-DE%20%7C%20EN-2563eb?style=flat-square)
+![Technologie: Vanilla JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-f7df1e?style=flat-square&logo=javascript&logoColor=000)
+![PWA: installierbar](https://img.shields.io/badge/PWA-installierbar-6d54b5?style=flat-square)
+
 **Eine moderne, mobiloptimierte Fitness-App für Trainingsplanung und Fortschrittskontrolle.**
 
-(Sie können die App eigenständig auf Ihrem Handy öffnen und brauchen keinen PC, um sie herunterzuladen)
+Direkt im Browser nutzbar oder als Web-App auf dem Smartphone installierbar – ohne Registrierung und ohne zusätzlichen App-Store.
 
 [**App öffnen**](https://alubis45123.github.io/Mein-Trainingsplan/) · [**Quellcode ansehen**](https://github.com/Alubis45123/Mein-Trainingsplan)
 
@@ -65,9 +70,41 @@ Die Benutzeroberfläche lässt sich auch direkt über `index.html` anzeigen. Fü
 
 Gewichtseinträge, Timer-Zustand und Sprachauswahl werden lokal im Browser gespeichert. Die App benötigt keine Anmeldung und sendet diese Daten nicht an einen Server. Beim Löschen der Website-Daten oder beim Wechsel des Browsers beziehungsweise Geräts kann der gespeicherte Verlauf verloren gehen oder nicht mehr verfügbar sein.
 
+## Entwicklung des Projekts
+
+Ich habe die App entwickelt, um meinen persönlichen Trainingsalltag übersichtlich an einem Ort zu organisieren. Daraus ist ein öffentliches Portfolio-Projekt entstanden, das ich schrittweise erweitere.
+
+Bei der Umsetzung waren mir drei Dinge wichtig:
+
+- **Einfacher Einstieg:** Die App soll ohne Konto oder komplizierte Einrichtung direkt funktionieren.
+- **Technische Grundlagen verstehen:** Die Benutzeroberfläche und Funktionen sind mit HTML, CSS und reinem JavaScript umgesetzt – bewusst ohne zusätzliches Frontend-Framework.
+- **Datenschutz und Offline-Nutzung:** Trainingsbezogene Eingaben bleiben auf dem Gerät; ein Service Worker ermöglicht die Nutzung zwischengespeicherter App-Dateien auch ohne Netzwerkverbindung.
+
+Der aktuelle Fokus liegt auf einer stabilen, verständlichen Anwendung. Zusätzliche Funktionen werden erst ergänzt, wenn sie im Trainingsalltag wirklich sinnvoll sind.
+
+## Roadmap
+
+**Bereits umgesetzt**
+
+- [x] Mobiloptimierter Wochen-Trainingsplan
+- [x] Gewichtserfassung mit Verlauf und Fortschrittsdiagramm
+- [x] Satzpausen-Timer mit vier Zeitvorgaben
+- [x] Sprachumschaltung Deutsch / Englisch
+- [x] Installierbare PWA mit Offline-Cache
+
+**Geplant / mögliche Erweiterungen**
+
+- [ ] Trainingsplan und Übungen individuell bearbeiten
+- [ ] Sätze, Wiederholungen und Trainingsgewichte protokollieren
+- [ ] Trainingsfortschritt über längere Zeiträume auswerten
+- [ ] Daten lokal exportieren und wieder importieren
+- [ ] Bedienbarkeit und Barrierefreiheit weiter verbessern
+
+Die Roadmap zeigt Ideen für die Weiterentwicklung, keine festen Veröffentlichungstermine.
+
 ## Projektstatus
 
-Dieses Projekt wird als persönliches Entwicklerportfolio weiterentwickelt. Im Mittelpunkt steht zunächst eine übersichtliche, zuverlässige Trainings-App. Erweiterte Analysen und eine geräteübergreifende Synchronisierung sind derzeit nicht enthalten.
+Aktives, persönliches Entwicklerportfolio-Projekt. Erweiterte Trainingsanalysen oder eine geräteübergreifende Synchronisierung sind derzeit noch nicht implementiert.
 
 ## Hinweis
 
@@ -75,6 +112,4 @@ Angaben zu Protein und Kreatin dienen ausschließlich der allgemeinen Orientieru
 
 ## Lizenz
 
-Dieses Projekt ist unter der MIT-Lizenz
-veröffentlicht. Weitere Informationen
-findest du in der Datei [LICENSE](LICENSE).
+Für dieses Repository wurde bisher keine Lizenz festgelegt. Die öffentliche Sichtbarkeit bedeutet daher nicht automatisch, dass der Quellcode frei weiterverwendet oder verbreitet werden darf.

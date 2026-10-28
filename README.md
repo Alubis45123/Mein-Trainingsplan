@@ -84,23 +84,38 @@ Der aktuelle Fokus liegt auf einer stabilen, verständlichen Anwendung. Zusätzl
 
 ## Roadmap
 
-**Bereits umgesetzt**
 
-- [x] Mobiloptimierter Wochen-Trainingsplan
-- [x] Gewichtserfassung mit Verlauf und Fortschrittsdiagramm
-- [x] Satzpausen-Timer mit vier Zeitvorgaben
-- [x] Sprachumschaltung Deutsch / Englisch
-- [x] Installierbare PWA mit Offline-Cache
+## Unser Trainingskonzept
 
-**Geplant / mögliche Erweiterungen**
+**5 Trainingstage. 2 Regenerationstage. Ein klares System.**
 
-- [ ] Trainingsplan und Übungen individuell bearbeiten
-- [ ] Sätze, Wiederholungen und Trainingsgewichte protokollieren
-- [ ] Trainingsfortschritt über längere Zeiträume auswerten
-- [ ] Daten lokal exportieren und wieder importieren
-- [ ] Bedienbarkeit und Barrierefreiheit weiter verbessern
+Unser Trainingsplan verfolgt einen strukturierten Ansatz für regelmäßiges Krafttraining und Muskelaufbau. Die Muskelgruppen werden gezielt über die Woche verteilt, um unterschiedliche Trainingsschwerpunkte zu setzen und Erholungsphasen bewusst einzuplanen.
 
-Die Roadmap zeigt Ideen für die Weiterentwicklung, keine festen Veröffentlichungstermine.
+### Der 5-Tage-Trainingssplit
+
+| Tag | Trainingsschwerpunkt |
+|---|---|
+| Montag | Brust & Schulter |
+| Dienstag | Rücken & Bizeps |
+| Mittwoch | Beine |
+| Donnerstag | Schulter & Brust |
+| Freitag | Beine & Bauch |
+| Samstag | Regeneration |
+| Sonntag | Regeneration |
+
+### Die Idee hinter dem Plan
+
+- **Gezielte Trainingsschwerpunkte:** Jeder Trainingstag konzentriert sich auf bestimmte Muskelgruppen.
+- **Wiederkehrende Belastungsreize:** Brust, Schultern und Beine werden mehrfach berücksichtigt.
+- **Klare Wochenstruktur:** Fünf Trainingstage schaffen eine feste Routine.
+- **Bewusste Regeneration:** Zwei trainingsfreie Tage bieten Raum für Erholung.
+- **Einfach und übersichtlich:** Keine unnötig komplizierten Vorgaben.
+
+### Unser Ziel
+
+Ein übersichtlicher Trainingsplan, der Kontinuität, Muskelaufbau und eine bewusste Belastungssteuerung unterstützt.
+
+**Train smart. Stay consistent. Make progress.**
 
 ## Projektstatus
 

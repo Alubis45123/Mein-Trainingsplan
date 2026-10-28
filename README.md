@@ -2,6 +2,8 @@
 
 **Eine moderne, mobiloptimierte Fitness-App für Trainingsplanung und Fortschrittskontrolle.**
 
+(Sie können die App eigenständig auf Ihrem Handy öffnen und brauchen keinen PC, um sie herunterzuladen)
+
 [**App öffnen**](https://alubis45123.github.io/Mein-Trainingsplan/) · [**Quellcode ansehen**](https://github.com/Alubis45123/Mein-Trainingsplan)
 
 Mein Trainingsplan ist eine schlanke Fitness-Web-App, mit der ich meinen Trainingsalltag übersichtlich organisieren und meine körperliche Entwicklung verfolgen kann. Das Projekt ist für den Eigengebrauch entstanden, steht aber allen Interessierten kostenlos zur Verfügung – ohne Registrierung oder Abonnement.
@@ -12,7 +14,7 @@ Mein Trainingsplan ist eine schlanke Fitness-Web-App, mit der ich meinen Trainin
 - **Fortschritts-Dashboard:** Aktuelles Körpergewicht, Veränderungen und grafischer Gewichtsverlauf auf einen Blick.
 - **Gewichtserfassung:** Messwerte eintragen, Verlauf ansehen und Einträge bei Bedarf löschen.
 - **Satzpausen-Timer:** Voreinstellungen mit 60, 90, 120 oder 180 Sekunden sowie Start-, Pause-, Fortsetzen- und Zurücksetzen-Funktion.
-- **Sprachauswahl:** Jederzeit zwischen Deutsch (Standardsprache) und Englisch wechseln. Die Auswahl wird auf dem Gerät gespeichert.
+- **Sprachauswahl:** Jederzeit zwischen *Deutsch* (Standardsprache) und *Englisch* wechseln. Die Auswahl wird auf dem Gerät gespeichert.
 - **Ernährungsrichtwerte:** Allgemeine Orientierungswerte für Protein und Kreatin auf Grundlage des zuletzt eingetragenen Gewichts.
 - **Installierbare Web-App (PWA):** Zum Startbildschirm hinzufügen und zwischengespeicherte Inhalte offline verwenden.
 - **Datenschutzfreundlich:** Gewichtsdaten und Einstellungen bleiben lokal im Browser; ein Benutzerkonto ist nicht nötig.

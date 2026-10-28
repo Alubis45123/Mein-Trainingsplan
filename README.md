@@ -8,13 +8,19 @@
 
 Mein Trainingsplan ist eine schlanke Fitness-Web-App, mit der ich meinen Trainingsalltag übersichtlich organisieren und meine körperliche Entwicklung verfolgen kann. Das Projekt ist für den Eigengebrauch entstanden, steht aber allen Interessierten kostenlos zur Verfügung – ohne Registrierung oder Abonnement.
 
+## App-Vorschau
+
+![Mein Trainingsplan: Trainingsplan, Fortschritt und Satzpausen-Timer](app-vorschau.png)
+
+*Die Fortschrittsansicht zeigt ausschließlich Beispieldaten.*
+
 ## Funktionen
 
 - **Wöchentlicher Trainingsplan:** Übersicht über sieben Tage mit Muskelgruppen, Trainingsschwerpunkten und Regenerationstagen.
 - **Fortschritts-Dashboard:** Aktuelles Körpergewicht, Veränderungen und grafischer Gewichtsverlauf auf einen Blick.
 - **Gewichtserfassung:** Messwerte eintragen, Verlauf ansehen und Einträge bei Bedarf löschen.
 - **Satzpausen-Timer:** Voreinstellungen mit 60, 90, 120 oder 180 Sekunden sowie Start-, Pause-, Fortsetzen- und Zurücksetzen-Funktion.
-- **Sprachauswahl:** Jederzeit zwischen *Deutsch* (Standardsprache) und *Englisch* wechseln. Die Auswahl wird auf dem Gerät gespeichert.
+- **Sprachauswahl:** Jederzeit zwischen Deutsch (Standardsprache) und Englisch wechseln. Die Auswahl wird auf dem Gerät gespeichert.
 - **Ernährungsrichtwerte:** Allgemeine Orientierungswerte für Protein und Kreatin auf Grundlage des zuletzt eingetragenen Gewichts.
 - **Installierbare Web-App (PWA):** Zum Startbildschirm hinzufügen und zwischengespeicherte Inhalte offline verwenden.
 - **Datenschutzfreundlich:** Gewichtsdaten und Einstellungen bleiben lokal im Browser; ein Benutzerkonto ist nicht nötig.

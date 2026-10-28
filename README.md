@@ -17,6 +17,36 @@ Mein Trainingsplan ist eine schlanke Fitness-Web-App, mit der ich meinen Trainin
 
 ![Mein Trainingsplan: Trainingsplan, Fortschritt und Satzpausen-Timer](app-vorschau.png)
 
+
+## 📲 App installieren
+
+### Dein Training. Dein Fortschritt. Immer dabei.
+
+**Kostenlos. Ohne Anmeldung. Direkt startklar.**
+
+Mein Trainingsplan funktioniert auf Android, iPhone und Computer. Du brauchst keinen App Store und musst kein Benutzerkonto erstellen.
+
+### 🚀 [Jetzt Trainings-App öffnen](https://alubis45123.github.io/Mein-Trainingsplan/)
+
+**📱 Android**
+
+In Google Chrome öffnen → Menü `⋮` → **App installieren** oder **Zum Startbildschirm hinzufügen**
+
+**🍎 iPhone**
+
+In Safari öffnen → **Teilen** → **Zum Home-Bildschirm** → **Hinzufügen**
+
+**💻 Computer**
+
+Einfach den App-Link im Browser öffnen und direkt loslegen.
+
+---
+
+✅ **100 % kostenlos** · 🔒 **Ohne Anmeldung** · 🌍 **Deutsch & Englisch** · 📶 **Offline-Unterstützung**
+
+> **Hinweis:** Deine Gewichtseinträge und Einstellungen bleiben lokal auf deinem Gerät. Es gibt keine automatische Synchronisierung zwischen Geräten.
+
+
 *Die Fortschrittsansicht zeigt ausschließlich Beispieldaten.*
 
 ## Funktionen

@@ -4,8 +4,6 @@
 
 [**App öffnen**](https://alubis45123.github.io/Mein-Trainingsplan/) · [**Quellcode ansehen**](https://github.com/Alubis45123/Mein-Trainingsplan)
 
-(Sie können die App eigenständig auf Ihrem Handy öffnen und brauchen keinen PC, um sie herunterzuladen)
-
 Mein Trainingsplan ist eine schlanke Fitness-Web-App, mit der ich meinen Trainingsalltag übersichtlich organisieren und meine körperliche Entwicklung verfolgen kann. Das Projekt ist für den Eigengebrauch entstanden, steht aber allen Interessierten kostenlos zur Verfügung – ohne Registrierung oder Abonnement.
 
 ## Funktionen

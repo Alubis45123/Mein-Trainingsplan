@@ -112,4 +112,4 @@ Angaben zu Protein und Kreatin dienen ausschließlich der allgemeinen Orientieru
 
 ## Lizenz
 
-Für dieses Repository wurde bisher keine Lizenz festgelegt. Die öffentliche Sichtbarkeit bedeutet daher nicht automatisch, dass der Quellcode frei weiterverwendet oder verbreitet werden darf.
+Dieses Projekt ist unter der MIT-Lizenz veröffentlicht. Weitere Informationen findest du in der Datei [LICENSE](LICENSE).
